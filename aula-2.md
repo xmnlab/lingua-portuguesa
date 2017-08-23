@@ -1,9 +1,7 @@
 # Aula 2
 
-=======
-
 ## Artigos:
---------
+
 
 * o -> el
 * os -> los
@@ -11,7 +9,7 @@
 * as -> las
 
 ## Pronomes [1]:
-----------------
+
 
 ### Pronomes pessoais
 
@@ -54,7 +52,6 @@ Pronomes indefinidos
 ????
 
 ## Preposições [2][3]:
-----------------------
 
 * a
 * ante
