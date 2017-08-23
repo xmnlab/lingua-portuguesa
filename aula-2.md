@@ -1,9 +1,8 @@
-=======
-Aula 2
+# Aula 2
+
 =======
 
---------
-Artigos:
+## Artigos:
 --------
 
 * o -> el
@@ -11,11 +10,10 @@ Artigos:
 * a -> la
 * as -> las
 
--------------
-Pronomes [1]:
--------------
+## Pronomes [1]:
+----------------
 
-# Pronomes pessoais
+### Pronomes pessoais
 
 Os pronomes pessoais subdividem-se em pronomes pessoais do caso reto, pronomes pessoais oblíquos e pronomes pessoais de tratamento.
 
@@ -29,21 +27,21 @@ Pronomes pessoais oblíquos podem ser tônicos ou átonos.
 
 > Exemplos de pronomes de tratamento: você, senhor, senhora, senhorita, Vossa Senhoria, Vossa Excelência, Vossa Eminência, Vossa Santidade, Vossa Reverendíssima, Vossa Alteza, Vossa Majestade, Vossa Magnificência, Vossa Paternidade, Vossa Majestade Imperial, Vossa Onipotência.
 
-# Pronomes possessivos
+### Pronomes possessivos
 
 > Exemplos de pronomes possessivos: meu, minha, meus, minhas, teu, tua, teus, tuas, seu, sua, seus, suas, nosso, nossa, nossos, nossas, vosso, vossa, vossos, vossas, seu, sua, seus, suas.
 
-# Pronomes demonstrativos
+### Pronomes demonstrativos
 
 > Exemplos de pronomes demonstrativos: este, esta, estes, estas, isto, esse, essa, esses, essas, isso, aquele, aquela, aqueles, aquelas, aquilo.
 
 > Exemplos de outras palavras que atuam como pronomes demonstrativos: o, a, os, as, mesmo, mesma, mesmos, mesmas, próprio, própria, próprios, próprias, tal, tais, semelhante, semelhantes.
 
-# Pronomes interrogativos
+### Pronomes interrogativos
 
 > Exemplos de pronomes interrogativos: que, quem, qual, quais, quanto, quanta, quantos, quantas.
 
-# Pronomes relativos
+### Pronomes relativos
 
 > Exemplos de pronomes relativos: que, quem, onde, o qual, a qual, os quais, as quais, cujo, cuja, cujos, cujas, quanto, quanta, quantos, quantas.
 
@@ -51,13 +49,12 @@ Pronomes indefinidos
 
 > Exemplos de pronomes indefinidos: alguém, ninguém, outrem, tudo, nada, cada, algo, algum, algumas, nenhuns, nenhuma, todo, todos, outra, outras, muito, muita, pouco, poucos, certo, certa, vários, várias, tanto, tantos, quanta, quantas, qualquer, quaisquer, bastante, bastantes.
 
-# Pronomes adjetivos e pronomes substantivos
+### Pronomes adjetivos e pronomes substantivos
 
 ????
 
--------------------
-Preposições [2][3]:
--------------------
+## Preposições [2][3]:
+----------------------
 
 * a
 * ante
@@ -184,11 +181,13 @@ A + aquela(s) = àquela(s)
 
 A + aquilo = àquilo
 
-Expressões:
+## Expressões:
+
 https://www.youtube.com/watch?v=EeWDU_J6Kqg
 
-Referências:
 
-[1] https://www.normaculta.com.br/tipos-de-pronomes/
-[2] http://www.infoescola.com/portugues/preposicao/
-[3] http://gramaticaportuguesa.blogs.sapo.pt/5865.html
+## Referências:
+
+* [1] https://www.normaculta.com.br/tipos-de-pronomes/
+* [2] http://www.infoescola.com/portugues/preposicao/
+* [3] http://gramaticaportuguesa.blogs.sapo.pt/5865.html
