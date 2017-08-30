@@ -53,6 +53,16 @@ Na língua portuguesa existem casos da junção de duas letras que representam u
 - GU -> gueixa, guia;
 - QU -> quero, aquilo;
 
+**Dígrafos Vocálicos**
+
+- AM e AN -> tambor, cantam;
+- EM e EN -> sempre, lente;
+- IM e IN -> jazmin, cinto;
+- OM e ON -> lombo, conto;
+- UM e UN -> nenhum, nunca;
+
+As letras M e N provoca som anasalado à sílaba.
+
 ## Referências
 
 - [1] http://portugues.uol.com.br/gramatica/alfabeto-oficial-lingua-portuguesa-.html
