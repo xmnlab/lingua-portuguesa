@@ -63,6 +63,10 @@ Na língua portuguesa existem casos da junção de duas letras que representam u
 
 As letras M e N provoca som anasalado à sílaba.
 
+**Videos de referência**
+
+- https://www.youtube.com/watch?v=iu4ra9tkFWM
+
 ## Referências
 
 - [1] http://portugues.uol.com.br/gramatica/alfabeto-oficial-lingua-portuguesa-.html
