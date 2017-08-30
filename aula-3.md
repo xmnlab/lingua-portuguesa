@@ -9,40 +9,54 @@ para unidades de medidas [1].
 
 ### Pronúncia
 
-A -> Á
-B -> BÊ
-C -> CÊ
-D -> DÊ
-E -> Ê (ou É)
-F -> ÉFE
-G -> GÊ
-H -> AGÁ
-I -> I
-J -> JÓTA (o J em português é similar ao J em inglês, um pouco mais suave, como em JET)
-K -> KÁ
-L -> ÉLE
-M -> ÊME
-N -> ÊNE
-O -> Ô (ou Ó)
-P -> PÊ
-Q -> KÊ
-R -> ÉRRE
-S -> ÉSSE
-T -> TÊ
-U -> Ú
-V -> VÊ
-W -> DÁBLIU
-X -> XÍS
-Y -> ÍPSILON
-Z -> ZÊ
+- A -> Á
+- B -> BÊ
+- C -> CÊ
+- D -> DÊ
+- E -> Ê (ou É)
+- F -> ÉFE
+- G -> GÊ
+- H -> AGÁ
+- I -> I
+- J -> JÓTA (o J em português é similar ao J em inglês, um pouco mais suave, como em JET)
+- K -> KÁ
+- L -> ÉLE
+- M -> ÊME
+- N -> ÊNE
+- O -> Ô (ou Ó)
+- P -> PÊ
+- Q -> KÊ
+- R -> ÉRRE
+- S -> ÉSSE
+- T -> TÊ
+- U -> Ú
+- V -> VÊ
+- W -> DÁBLIU
+- X -> XÍS
+- Y -> ÍPSILON
+- Z -> ZÊ
 
-Para mais informações, como por exemplo a transcripção fonética internacional, acesse [2].
+Para mais informações, como por exemplo a transcripção fonética internacional, acesse [2][3].
 
-Videos de referência:
+Na língua portuguesa existem casos da junção de duas letras que representam um único fonema [4][5]. Esses casos são conhecidos como dígrafos.
 
-- Fonética: https://www.youtube.com/watch?v=ZGHXKcl5d_k
+**Dígrafos Consonantais**
+
+- CH -> chave, Chile;
+- NH -> ganha, manha;
+- LH -> galho, palhaço;
+- RR -> carro, barra;
+- SS -> massa, passo;
+- SC -> nascimento, crescer;
+- SÇ -> desço, cresço;
+- XC -> exceção, excelente;
+- GU -> gueixa, guia;
+- QU -> quero, aquilo;
 
 ## Referências
 
 - [1] http://portugues.uol.com.br/gramatica/alfabeto-oficial-lingua-portuguesa-.html
 - [2] https://pt.wikipedia.org/wiki/Alfabeto_portugu%C3%AAs#Nomes_das_letras_e_representa.C3.A7.C3.B5es_fon.C3.A9ticas
+- [3] http://michaelis.uol.com.br/escolar-espanhol/transcricao-fonetica-do-portugues/
+- [4] https://www.youtube.com/watch?v=ZGHXKcl5d_k
+- [5] http://brasilescola.uol.com.br/o-que-e/portugues/o-que-e-fonema.htm
